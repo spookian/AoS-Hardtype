@@ -1,3 +1,7 @@
+*.gba
+*.txt
+*.sav
+
 # Prerequisites
 *.d
 
